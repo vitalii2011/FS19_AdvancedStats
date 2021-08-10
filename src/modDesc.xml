@@ -588,6 +588,7 @@ Changelog ${version}:
 			<fr>ha</fr>
 			<de>Hektar</de>
 			<pl>ha</pl>
+			<ru>га</ru>
 		</text>
 		<text name="ass_units_acres">
 			<en>ac</en>
@@ -598,6 +599,7 @@ Changelog ${version}:
 			<fr>km</fr>
 			<de>km</de>
 			<pl>km</pl>
+			<ru>км</ru>
 		</text>
 		<text name="ass_units_miles">
 			<en>mi</en>
@@ -608,6 +610,7 @@ Changelog ${version}:
 			<fr>l</fr>
 			<de>Liter</de>
 			<pl>l</pl>
+			<ru>л</ru>
 		</text>
 		<text name="ass_units_gallons">
 			<en>gal</en>
@@ -620,6 +623,7 @@ Changelog ${version}:
 		<text name="ass_units_tons">
 			<en>t</en>
 			<pl>t</pl>
+			<ru>т</ru>
 		</text>
 	</l10n>
 </modDesc>
